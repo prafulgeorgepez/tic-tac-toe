@@ -7,13 +7,14 @@ This repository contains a Tic-Tac-Toe game project developed as a study exercis
 
 <br>**Project Overview**
 <br>The project is designed to build a classic Tic-Tac-Toe game with the following primary objectives:
-
 <br>* Practice OOP principles in Python
 <br>* Develop a robust backend game logic for Tic-Tac-Toe
 <br>* Gain experience in designing and implementing a user interface (UI) using React (upcoming)
+
 <br>**Technologies Used**
 <br>* Backend: Python
 <br>* Frontend: React (to be implemented)
+
 <br>**Next Steps**
 <br>* Complete the frontend using React to enable a fully interactive UI.
 <br>* Integrate the backend with the frontend for a seamless user experience.
