@@ -18,4 +18,3 @@ This repository contains a Tic-Tac-Toe game project developed as a study exercis
 <br>**Next Steps**
 <br>* Complete the frontend using React to enable a fully interactive UI.
 <br>* Integrate the backend with the frontend for a seamless user experience.
-<br>* Conduct testing and finalize the game.
